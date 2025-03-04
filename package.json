@@ -1,13 +1,10 @@
 {
   "name": "node-hello-app",
   "version": "1.0.0",
-  "description": "Node Express Hello application",
+  "description": "A simple Node.js application",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "dependencies": {
-    "express": "^4.0.0"
-  },
-  "license": "UPL-1.0"
+  "dependencies": {}
 }
